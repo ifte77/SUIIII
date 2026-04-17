@@ -50,3 +50,16 @@ h1 {
     height: auto;
     object-fit: cover; /* Crops video to fit without stretching */
 }
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
